@@ -71,7 +71,7 @@
 
 /obj/structure/spider/eggcluster
 	name = "egg cluster"
-	desc = "They seem to pulse slightly with an inner life."
+	desc = "They seem to pulse slightly with an inner life. Oh god, oh fuck-- unless they are yours ofcourse."
 	icon_state = "eggs"
 	///The amount the egg cluster has grown.  Is able to produce a spider when it hits 100.
 	var/amount_grown = 0
